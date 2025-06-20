@@ -1,0 +1,1001 @@
+user_id,group,geo,platform_type,subscription_type,is_lead,is_sale,revenue_amount
+user_1,test,US,Android,Free Trial,1,0,0.0
+user_2,control,US,iOS,Free Trial,1,1,0.0
+user_3,test,US,Android,6M,1,1,69.35
+user_4,test,UK,Android,Free Trial,0,0,0.0
+user_5,test,Brazil,iOS,Free Trial,0,0,0.0
+user_6,control,UK,Android,Free Trial,1,1,0.0
+user_7,test,Brazil,iOS,12M,0,0,0.0
+user_8,test,UK,Android,6M,0,0,0.0
+user_9,test,UK,iOS,3M,0,0,0.0
+user_10,control,India,iOS,Free Trial,0,0,0.0
+user_11,test,UK,iOS,3M,1,0,0.0
+user_12,test,Germany,iOS,6M,0,0,0.0
+user_13,test,India,Android,6M,0,0,0.0
+user_14,test,UK,iOS,Free Trial,1,0,0.0
+user_15,control,US,Android,Free Trial,1,0,0.0
+user_16,test,Germany,iOS,Free Trial,0,0,0.0
+user_17,control,Germany,iOS,6M,1,1,17.13
+user_18,control,Germany,iOS,6M,0,0,0.0
+user_19,control,India,Android,Free Trial,0,0,0.0
+user_20,test,UK,iOS,Free Trial,1,1,0.0
+user_21,control,UK,Android,Free Trial,1,0,0.0
+user_22,test,US,Android,12M,0,0,0.0
+user_23,control,US,Android,Free Trial,1,0,0.0
+user_24,control,Germany,Android,6M,1,1,38.38
+user_25,control,US,Android,6M,1,1,33.97
+user_26,control,India,Android,3M,1,0,0.0
+user_27,control,UK,Android,Free Trial,0,0,0.0
+user_28,control,Germany,Android,Free Trial,1,0,0.0
+user_29,control,US,Android,6M,0,0,0.0
+user_30,control,India,iOS,6M,1,0,0.0
+user_31,test,India,iOS,6M,1,0,0.0
+user_32,test,US,iOS,3M,0,0,0.0
+user_33,control,UK,iOS,Free Trial,0,0,0.0
+user_34,control,US,iOS,12M,1,0,0.0
+user_35,control,Germany,Android,6M,1,1,77.6
+user_36,test,US,Android,Free Trial,1,0,0.0
+user_37,control,India,Android,12M,1,0,0.0
+user_38,test,US,Android,6M,0,0,0.0
+user_39,test,UK,Android,3M,1,1,72.52
+user_40,test,Brazil,Android,6M,1,0,0.0
+user_41,test,US,Android,6M,1,0,0.0
+user_42,test,UK,iOS,6M,0,0,0.0
+user_43,control,UK,iOS,Free Trial,0,0,0.0
+user_44,control,India,iOS,3M,1,0,0.0
+user_45,control,UK,iOS,12M,0,0,0.0
+user_46,control,UK,Android,Free Trial,1,1,0.0
+user_47,control,UK,Android,3M,1,1,90.84
+user_48,test,UK,Android,3M,0,0,0.0
+user_49,control,Germany,iOS,3M,0,0,0.0
+user_50,control,Germany,Android,6M,0,0,0.0
+user_51,test,India,Android,12M,1,0,0.0
+user_52,control,US,Android,Free Trial,1,1,0.0
+user_53,test,UK,iOS,Free Trial,0,0,0.0
+user_54,control,US,Android,Free Trial,1,1,0.0
+user_55,test,US,iOS,12M,1,1,22.39
+user_56,control,India,iOS,6M,1,0,0.0
+user_57,control,UK,iOS,Free Trial,0,0,0.0
+user_58,test,UK,iOS,6M,1,0,0.0
+user_59,test,Brazil,Android,12M,1,1,50.86
+user_60,test,US,iOS,6M,0,0,0.0
+user_61,test,US,iOS,12M,1,1,17.53
+user_62,test,Germany,Android,Free Trial,1,0,0.0
+user_63,test,Brazil,Android,6M,1,0,0.0
+user_64,test,Germany,iOS,3M,1,1,33.58
+user_65,test,Germany,Android,6M,1,0,0.0
+user_66,control,Germany,iOS,6M,1,1,57.96
+user_67,control,India,iOS,6M,0,0,0.0
+user_68,test,India,iOS,6M,1,1,17.26
+user_69,control,Germany,iOS,Free Trial,0,0,0.0
+user_70,control,Brazil,Android,3M,1,0,0.0
+user_71,control,US,iOS,12M,1,0,0.0
+user_72,control,Brazil,Android,12M,1,0,0.0
+user_73,test,UK,Android,Free Trial,1,0,0.0
+user_74,control,India,Android,Free Trial,0,0,0.0
+user_75,test,US,Android,Free Trial,1,1,0.0
+user_76,control,US,iOS,6M,1,0,0.0
+user_77,control,UK,Android,6M,0,0,0.0
+user_78,control,UK,iOS,Free Trial,0,0,0.0
+user_79,test,Germany,Android,3M,0,0,0.0
+user_80,control,India,Android,6M,1,1,31.9
+user_81,test,India,iOS,6M,0,0,0.0
+user_82,control,Brazil,iOS,3M,1,0,0.0
+user_83,test,Germany,iOS,3M,1,0,0.0
+user_84,control,Germany,Android,3M,1,1,70.24
+user_85,test,Germany,Android,Free Trial,1,1,0.0
+user_86,test,Germany,iOS,3M,1,0,0.0
+user_87,control,India,iOS,6M,1,1,61.32
+user_88,test,India,iOS,12M,0,0,0.0
+user_89,control,Germany,iOS,6M,1,1,33.74
+user_90,control,Brazil,Android,6M,1,0,0.0
+user_91,control,US,iOS,Free Trial,1,1,0.0
+user_92,control,US,iOS,3M,0,0,0.0
+user_93,control,Brazil,iOS,Free Trial,1,1,0.0
+user_94,control,Germany,iOS,Free Trial,1,1,0.0
+user_95,control,India,Android,6M,0,0,0.0
+user_96,control,US,iOS,12M,0,0,0.0
+user_97,control,UK,Android,Free Trial,1,1,0.0
+user_98,control,UK,iOS,3M,0,0,0.0
+user_99,control,Brazil,iOS,6M,0,0,0.0
+user_100,test,Germany,Android,Free Trial,0,0,0.0
+user_101,test,US,iOS,3M,1,1,65.09
+user_102,control,Germany,Android,6M,0,0,0.0
+user_103,control,US,Android,6M,1,0,0.0
+user_104,control,Brazil,iOS,Free Trial,1,1,0.0
+user_105,control,Brazil,Android,3M,1,1,83.8
+user_106,control,UK,Android,6M,1,1,15.55
+user_107,control,Germany,Android,3M,1,0,0.0
+user_108,control,UK,Android,Free Trial,0,0,0.0
+user_109,control,Germany,Android,6M,1,1,83.49
+user_110,test,UK,Android,Free Trial,1,0,0.0
+user_111,control,India,Android,6M,1,1,74.34
+user_112,test,India,Android,Free Trial,1,0,0.0
+user_113,control,India,iOS,12M,0,0,0.0
+user_114,control,India,iOS,3M,1,0,0.0
+user_115,test,US,Android,3M,1,1,43.92
+user_116,control,India,iOS,Free Trial,1,0,0.0
+user_117,test,Brazil,Android,3M,1,0,0.0
+user_118,control,Brazil,Android,12M,1,0,0.0
+user_119,control,US,iOS,12M,0,0,0.0
+user_120,test,India,Android,3M,0,0,0.0
+user_121,control,India,Android,3M,1,1,28.22
+user_122,test,India,Android,6M,0,0,0.0
+user_123,control,UK,Android,12M,0,0,0.0
+user_124,test,Germany,iOS,3M,0,0,0.0
+user_125,test,UK,Android,3M,1,1,96.36
+user_126,control,Germany,Android,3M,1,1,43.61
+user_127,control,India,Android,6M,1,1,22.88
+user_128,test,India,iOS,Free Trial,0,0,0.0
+user_129,control,UK,Android,6M,0,0,0.0
+user_130,control,UK,iOS,3M,1,0,0.0
+user_131,control,Germany,iOS,6M,1,1,23.22
+user_132,test,Brazil,Android,Free Trial,0,0,0.0
+user_133,test,Germany,Android,3M,0,0,0.0
+user_134,test,UK,iOS,3M,0,0,0.0
+user_135,test,UK,Android,6M,0,0,0.0
+user_136,test,US,iOS,Free Trial,1,0,0.0
+user_137,test,UK,iOS,3M,1,1,87.04
+user_138,test,US,Android,3M,0,0,0.0
+user_139,test,Brazil,Android,3M,1,1,66.32
+user_140,test,Germany,iOS,6M,1,0,0.0
+user_141,control,Germany,iOS,6M,0,0,0.0
+user_142,test,US,iOS,6M,1,1,83.61
+user_143,control,Germany,iOS,Free Trial,0,0,0.0
+user_144,control,UK,Android,6M,1,0,0.0
+user_145,control,India,Android,3M,0,0,0.0
+user_146,test,US,Android,Free Trial,1,0,0.0
+user_147,test,Germany,Android,Free Trial,1,1,0.0
+user_148,test,US,Android,3M,0,0,0.0
+user_149,test,US,iOS,6M,1,0,0.0
+user_150,control,India,Android,6M,0,0,0.0
+user_151,test,UK,Android,6M,0,0,0.0
+user_152,test,US,Android,3M,1,0,0.0
+user_153,test,Germany,Android,3M,1,1,77.03
+user_154,test,Brazil,Android,Free Trial,1,1,0.0
+user_155,test,US,iOS,3M,1,0,0.0
+user_156,control,US,iOS,3M,0,0,0.0
+user_157,test,India,iOS,Free Trial,0,0,0.0
+user_158,control,UK,Android,Free Trial,0,0,0.0
+user_159,test,Brazil,iOS,3M,0,0,0.0
+user_160,control,Germany,iOS,6M,1,0,0.0
+user_161,test,Brazil,Android,12M,0,0,0.0
+user_162,test,Germany,Android,12M,0,0,0.0
+user_163,control,UK,Android,6M,0,0,0.0
+user_164,control,Germany,iOS,3M,0,0,0.0
+user_165,control,India,iOS,6M,1,0,0.0
+user_166,test,India,Android,6M,0,0,0.0
+user_167,control,India,Android,Free Trial,1,1,0.0
+user_168,test,India,iOS,3M,1,0,0.0
+user_169,test,Brazil,iOS,6M,1,0,0.0
+user_170,control,UK,Android,3M,0,0,0.0
+user_171,control,Germany,Android,3M,0,0,0.0
+user_172,test,Germany,iOS,3M,0,0,0.0
+user_173,test,India,Android,Free Trial,0,0,0.0
+user_174,control,India,iOS,3M,1,0,0.0
+user_175,control,US,iOS,3M,0,0,0.0
+user_176,control,UK,iOS,Free Trial,1,0,0.0
+user_177,test,Brazil,iOS,Free Trial,1,1,0.0
+user_178,test,Germany,Android,6M,1,1,60.58
+user_179,test,US,Android,Free Trial,0,0,0.0
+user_180,test,US,iOS,3M,0,0,0.0
+user_181,test,Germany,iOS,Free Trial,1,0,0.0
+user_182,test,Brazil,iOS,12M,1,1,97.71
+user_183,control,US,iOS,Free Trial,0,0,0.0
+user_184,test,US,iOS,3M,1,1,47.18
+user_185,test,UK,Android,12M,0,0,0.0
+user_186,test,Brazil,Android,6M,0,0,0.0
+user_187,control,US,Android,Free Trial,1,1,0.0
+user_188,test,Brazil,Android,6M,1,1,61.92
+user_189,test,Germany,iOS,3M,0,0,0.0
+user_190,control,India,iOS,3M,0,0,0.0
+user_191,test,US,iOS,Free Trial,1,1,0.0
+user_192,test,UK,iOS,Free Trial,0,0,0.0
+user_193,test,Germany,iOS,6M,1,0,0.0
+user_194,test,Brazil,Android,3M,1,0,0.0
+user_195,test,Germany,iOS,3M,0,0,0.0
+user_196,control,US,Android,6M,0,0,0.0
+user_197,control,Brazil,Android,6M,1,0,0.0
+user_198,control,India,Android,Free Trial,0,0,0.0
+user_199,test,Germany,Android,6M,1,1,85.5
+user_200,test,US,iOS,Free Trial,1,0,0.0
+user_201,test,UK,Android,6M,1,0,0.0
+user_202,control,Brazil,Android,6M,0,0,0.0
+user_203,test,Germany,Android,12M,1,0,0.0
+user_204,test,Germany,iOS,Free Trial,1,0,0.0
+user_205,control,India,iOS,Free Trial,1,1,0.0
+user_206,test,India,iOS,Free Trial,0,0,0.0
+user_207,control,UK,Android,Free Trial,0,0,0.0
+user_208,control,UK,Android,Free Trial,0,0,0.0
+user_209,control,US,iOS,12M,1,1,67.57
+user_210,test,US,Android,Free Trial,0,0,0.0
+user_211,test,UK,iOS,Free Trial,1,0,0.0
+user_212,test,UK,iOS,6M,0,0,0.0
+user_213,test,Brazil,Android,3M,0,0,0.0
+user_214,test,India,Android,6M,1,0,0.0
+user_215,test,US,Android,Free Trial,0,0,0.0
+user_216,test,India,Android,3M,1,0,0.0
+user_217,control,India,iOS,Free Trial,1,0,0.0
+user_218,test,UK,iOS,Free Trial,1,0,0.0
+user_219,control,Brazil,iOS,12M,1,1,88.25
+user_220,test,Germany,iOS,Free Trial,1,0,0.0
+user_221,test,Brazil,iOS,3M,0,0,0.0
+user_222,test,Brazil,Android,3M,1,0,0.0
+user_223,control,India,iOS,3M,0,0,0.0
+user_224,control,Brazil,iOS,12M,1,1,64.07
+user_225,control,US,iOS,Free Trial,1,0,0.0
+user_226,control,India,Android,6M,0,0,0.0
+user_227,test,US,Android,12M,1,0,0.0
+user_228,control,Germany,Android,3M,1,0,0.0
+user_229,test,India,Android,12M,0,0,0.0
+user_230,test,Germany,iOS,Free Trial,1,1,0.0
+user_231,control,India,iOS,3M,1,1,74.89
+user_232,control,UK,Android,Free Trial,1,1,0.0
+user_233,control,Brazil,Android,6M,0,0,0.0
+user_234,control,UK,iOS,12M,0,0,0.0
+user_235,control,Germany,iOS,Free Trial,0,0,0.0
+user_236,control,Brazil,Android,6M,0,0,0.0
+user_237,control,India,Android,Free Trial,1,1,0.0
+user_238,control,Brazil,Android,3M,1,0,0.0
+user_239,test,US,Android,3M,0,0,0.0
+user_240,control,Brazil,iOS,12M,1,1,18.9
+user_241,control,US,iOS,6M,1,0,0.0
+user_242,test,Brazil,iOS,3M,1,1,34.37
+user_243,control,US,Android,Free Trial,1,1,0.0
+user_244,test,Germany,Android,Free Trial,0,0,0.0
+user_245,test,UK,iOS,Free Trial,1,1,0.0
+user_246,control,India,iOS,Free Trial,1,1,0.0
+user_247,test,Brazil,iOS,12M,1,1,39.6
+user_248,test,UK,iOS,3M,0,0,0.0
+user_249,test,India,Android,3M,1,0,0.0
+user_250,test,India,iOS,Free Trial,1,1,0.0
+user_251,control,US,iOS,12M,0,0,0.0
+user_252,test,Germany,iOS,6M,0,0,0.0
+user_253,control,Germany,iOS,Free Trial,1,0,0.0
+user_254,test,UK,iOS,6M,1,1,21.78
+user_255,test,Germany,iOS,3M,1,1,34.79
+user_256,test,Brazil,iOS,Free Trial,1,0,0.0
+user_257,test,Germany,Android,3M,1,1,23.59
+user_258,control,UK,Android,3M,1,1,38.63
+user_259,control,Germany,Android,Free Trial,1,1,0.0
+user_260,test,Brazil,Android,12M,1,1,69.03
+user_261,test,US,iOS,6M,0,0,0.0
+user_262,control,UK,Android,6M,0,0,0.0
+user_263,test,US,Android,3M,0,0,0.0
+user_264,test,US,iOS,3M,1,0,0.0
+user_265,test,US,iOS,6M,1,1,46.01
+user_266,control,India,Android,3M,0,0,0.0
+user_267,control,India,Android,Free Trial,1,0,0.0
+user_268,control,US,iOS,3M,1,0,0.0
+user_269,test,UK,Android,6M,1,1,46.47
+user_270,test,Brazil,iOS,3M,0,0,0.0
+user_271,control,Brazil,iOS,Free Trial,0,0,0.0
+user_272,control,Germany,iOS,6M,1,0,0.0
+user_273,control,UK,iOS,Free Trial,1,0,0.0
+user_274,control,India,Android,Free Trial,0,0,0.0
+user_275,test,US,iOS,Free Trial,1,1,0.0
+user_276,control,Germany,iOS,3M,0,0,0.0
+user_277,test,Brazil,Android,6M,0,0,0.0
+user_278,control,India,iOS,3M,0,0,0.0
+user_279,test,India,Android,Free Trial,1,1,0.0
+user_280,control,US,Android,12M,1,1,32.81
+user_281,control,Brazil,Android,12M,1,1,37.69
+user_282,control,UK,iOS,12M,0,0,0.0
+user_283,control,India,Android,Free Trial,0,0,0.0
+user_284,test,US,Android,3M,1,0,0.0
+user_285,control,UK,iOS,12M,1,1,94.62
+user_286,test,Brazil,Android,6M,0,0,0.0
+user_287,test,India,Android,Free Trial,0,0,0.0
+user_288,test,UK,Android,Free Trial,0,0,0.0
+user_289,test,UK,Android,3M,1,1,70.08
+user_290,control,UK,Android,12M,1,1,66.78
+user_291,test,India,iOS,3M,0,0,0.0
+user_292,test,India,Android,3M,0,0,0.0
+user_293,test,Germany,Android,Free Trial,1,0,0.0
+user_294,control,Brazil,iOS,6M,1,1,29.55
+user_295,control,US,iOS,6M,1,1,76.98
+user_296,control,UK,iOS,3M,1,0,0.0
+user_297,control,Germany,Android,6M,1,1,28.89
+user_298,test,US,iOS,12M,0,0,0.0
+user_299,test,Germany,Android,Free Trial,1,0,0.0
+user_300,control,India,Android,3M,0,0,0.0
+user_301,test,UK,iOS,Free Trial,1,0,0.0
+user_302,test,US,iOS,6M,0,0,0.0
+user_303,test,US,Android,3M,0,0,0.0
+user_304,control,US,iOS,6M,1,0,0.0
+user_305,control,US,Android,6M,1,0,0.0
+user_306,test,US,iOS,3M,1,0,0.0
+user_307,control,Germany,iOS,12M,1,1,47.25
+user_308,control,UK,iOS,3M,0,0,0.0
+user_309,control,India,Android,Free Trial,0,0,0.0
+user_310,control,India,iOS,6M,1,0,0.0
+user_311,control,India,Android,6M,1,0,0.0
+user_312,test,India,Android,3M,1,1,99.11
+user_313,control,Germany,Android,12M,0,0,0.0
+user_314,test,Brazil,Android,12M,1,0,0.0
+user_315,test,UK,iOS,Free Trial,1,1,0.0
+user_316,control,US,Android,12M,0,0,0.0
+user_317,test,Brazil,Android,Free Trial,0,0,0.0
+user_318,test,India,iOS,Free Trial,1,1,0.0
+user_319,test,Brazil,Android,Free Trial,0,0,0.0
+user_320,control,UK,iOS,12M,1,0,0.0
+user_321,control,US,Android,6M,1,1,69.4
+user_322,test,US,iOS,Free Trial,0,0,0.0
+user_323,control,UK,Android,3M,0,0,0.0
+user_324,control,UK,iOS,6M,1,0,0.0
+user_325,control,India,Android,Free Trial,1,0,0.0
+user_326,control,US,Android,12M,1,1,62.34
+user_327,test,Brazil,iOS,6M,1,0,0.0
+user_328,test,Germany,iOS,3M,1,1,73.19
+user_329,control,Germany,iOS,12M,1,1,86.64
+user_330,control,UK,iOS,3M,1,1,80.96
+user_331,test,India,Android,12M,0,0,0.0
+user_332,test,Germany,Android,6M,0,0,0.0
+user_333,control,US,iOS,6M,0,0,0.0
+user_334,test,UK,Android,Free Trial,1,1,0.0
+user_335,control,Brazil,iOS,12M,0,0,0.0
+user_336,control,UK,iOS,3M,0,0,0.0
+user_337,test,Brazil,Android,Free Trial,0,0,0.0
+user_338,test,UK,Android,Free Trial,0,0,0.0
+user_339,control,UK,Android,3M,0,0,0.0
+user_340,control,UK,Android,3M,1,1,34.47
+user_341,test,Brazil,Android,6M,1,1,17.73
+user_342,control,Brazil,Android,12M,0,0,0.0
+user_343,test,UK,Android,Free Trial,0,0,0.0
+user_344,control,Germany,iOS,6M,0,0,0.0
+user_345,test,India,iOS,Free Trial,1,1,0.0
+user_346,test,India,iOS,12M,1,1,41.81
+user_347,test,India,iOS,6M,1,0,0.0
+user_348,control,Brazil,iOS,3M,0,0,0.0
+user_349,control,Brazil,Android,6M,1,0,0.0
+user_350,test,Germany,iOS,3M,1,1,37.76
+user_351,control,India,iOS,3M,1,1,32.93
+user_352,test,India,iOS,6M,1,1,95.15
+user_353,test,UK,iOS,3M,0,0,0.0
+user_354,control,Brazil,iOS,3M,0,0,0.0
+user_355,control,India,iOS,3M,0,0,0.0
+user_356,test,Germany,iOS,6M,1,1,89.49
+user_357,control,Germany,Android,3M,0,0,0.0
+user_358,control,India,Android,Free Trial,1,0,0.0
+user_359,test,Brazil,iOS,6M,0,0,0.0
+user_360,test,Germany,Android,6M,1,0,0.0
+user_361,control,UK,Android,Free Trial,1,0,0.0
+user_362,test,Germany,Android,Free Trial,0,0,0.0
+user_363,test,US,Android,Free Trial,0,0,0.0
+user_364,control,US,iOS,3M,1,1,41.75
+user_365,test,Brazil,Android,3M,0,0,0.0
+user_366,test,India,Android,6M,1,1,70.71
+user_367,control,Brazil,Android,6M,1,1,48.63
+user_368,control,Brazil,iOS,6M,1,0,0.0
+user_369,test,Brazil,iOS,3M,1,1,92.74
+user_370,test,Brazil,iOS,6M,1,0,0.0
+user_371,control,UK,iOS,3M,1,1,54.0
+user_372,control,UK,iOS,12M,1,0,0.0
+user_373,control,Germany,iOS,6M,0,0,0.0
+user_374,control,US,iOS,Free Trial,1,0,0.0
+user_375,test,Brazil,Android,6M,0,0,0.0
+user_376,control,Germany,Android,3M,1,0,0.0
+user_377,control,US,Android,6M,0,0,0.0
+user_378,test,India,iOS,Free Trial,1,1,0.0
+user_379,control,UK,iOS,Free Trial,1,0,0.0
+user_380,test,US,iOS,12M,1,1,37.51
+user_381,control,India,iOS,Free Trial,1,1,0.0
+user_382,control,US,iOS,6M,1,1,35.96
+user_383,control,UK,Android,Free Trial,0,0,0.0
+user_384,test,UK,Android,6M,0,0,0.0
+user_385,test,Germany,iOS,6M,0,0,0.0
+user_386,control,Brazil,iOS,3M,0,0,0.0
+user_387,test,US,iOS,3M,1,0,0.0
+user_388,test,US,iOS,Free Trial,1,1,0.0
+user_389,test,India,Android,Free Trial,1,1,0.0
+user_390,test,UK,iOS,3M,1,0,0.0
+user_391,test,US,iOS,6M,1,0,0.0
+user_392,test,UK,iOS,12M,1,1,62.72
+user_393,control,US,iOS,12M,1,0,0.0
+user_394,control,Germany,Android,6M,1,1,37.33
+user_395,test,Brazil,iOS,6M,0,0,0.0
+user_396,control,US,iOS,6M,0,0,0.0
+user_397,control,UK,Android,Free Trial,1,1,0.0
+user_398,control,Germany,Android,12M,0,0,0.0
+user_399,control,US,Android,6M,0,0,0.0
+user_400,test,India,iOS,3M,1,1,64.69
+user_401,control,Brazil,iOS,Free Trial,1,1,0.0
+user_402,control,US,Android,3M,1,0,0.0
+user_403,test,Germany,Android,3M,0,0,0.0
+user_404,test,India,Android,12M,0,0,0.0
+user_405,control,Germany,Android,3M,1,0,0.0
+user_406,control,Germany,Android,3M,1,1,91.31
+user_407,control,India,Android,12M,1,1,48.95
+user_408,control,Germany,iOS,Free Trial,1,0,0.0
+user_409,control,India,iOS,3M,1,0,0.0
+user_410,control,US,iOS,Free Trial,0,0,0.0
+user_411,test,India,Android,6M,0,0,0.0
+user_412,control,India,Android,12M,0,0,0.0
+user_413,control,Brazil,Android,Free Trial,0,0,0.0
+user_414,test,India,Android,12M,0,0,0.0
+user_415,test,India,Android,Free Trial,1,0,0.0
+user_416,test,US,Android,12M,0,0,0.0
+user_417,test,Brazil,iOS,6M,1,0,0.0
+user_418,control,UK,iOS,6M,0,0,0.0
+user_419,control,US,Android,Free Trial,1,1,0.0
+user_420,control,US,iOS,12M,0,0,0.0
+user_421,control,UK,Android,6M,1,1,33.64
+user_422,control,India,iOS,3M,1,1,99.79
+user_423,control,Germany,Android,6M,1,0,0.0
+user_424,test,Brazil,Android,Free Trial,1,0,0.0
+user_425,control,Germany,iOS,12M,0,0,0.0
+user_426,test,UK,iOS,Free Trial,0,0,0.0
+user_427,test,US,Android,6M,1,0,0.0
+user_428,control,US,Android,3M,1,1,58.31
+user_429,test,Brazil,iOS,Free Trial,1,1,0.0
+user_430,control,US,iOS,Free Trial,1,1,0.0
+user_431,test,US,Android,Free Trial,1,1,0.0
+user_432,control,Brazil,iOS,3M,0,0,0.0
+user_433,test,Brazil,Android,3M,1,0,0.0
+user_434,control,UK,Android,3M,1,1,22.73
+user_435,control,US,Android,Free Trial,1,0,0.0
+user_436,control,US,Android,Free Trial,1,0,0.0
+user_437,control,UK,iOS,6M,1,1,19.0
+user_438,control,India,iOS,Free Trial,0,0,0.0
+user_439,test,India,iOS,12M,1,0,0.0
+user_440,test,India,iOS,12M,1,1,24.32
+user_441,test,UK,iOS,6M,1,0,0.0
+user_442,control,US,iOS,3M,1,0,0.0
+user_443,test,UK,iOS,12M,1,0,0.0
+user_444,control,UK,Android,Free Trial,0,0,0.0
+user_445,control,India,iOS,Free Trial,0,0,0.0
+user_446,test,Germany,iOS,Free Trial,1,0,0.0
+user_447,test,US,Android,6M,1,1,68.33
+user_448,control,India,iOS,Free Trial,1,0,0.0
+user_449,test,Germany,iOS,3M,1,1,82.33
+user_450,control,Germany,Android,12M,0,0,0.0
+user_451,control,Brazil,iOS,12M,0,0,0.0
+user_452,control,US,iOS,3M,1,1,50.88
+user_453,control,Germany,iOS,Free Trial,1,0,0.0
+user_454,control,India,Android,6M,1,0,0.0
+user_455,test,Brazil,iOS,3M,0,0,0.0
+user_456,test,US,iOS,Free Trial,0,0,0.0
+user_457,control,UK,Android,Free Trial,1,0,0.0
+user_458,control,India,iOS,12M,1,0,0.0
+user_459,test,Germany,Android,6M,0,0,0.0
+user_460,test,Germany,Android,6M,1,1,20.4
+user_461,control,India,iOS,12M,1,0,0.0
+user_462,test,Germany,Android,3M,1,1,47.44
+user_463,control,Brazil,Android,3M,0,0,0.0
+user_464,test,US,iOS,3M,1,0,0.0
+user_465,control,Brazil,Android,3M,1,0,0.0
+user_466,test,Germany,Android,3M,0,0,0.0
+user_467,control,UK,iOS,6M,1,0,0.0
+user_468,test,US,iOS,6M,1,1,99.67
+user_469,test,US,iOS,12M,1,0,0.0
+user_470,control,India,Android,3M,1,0,0.0
+user_471,test,India,iOS,6M,0,0,0.0
+user_472,control,UK,Android,6M,1,0,0.0
+user_473,test,US,Android,3M,1,1,59.97
+user_474,control,UK,Android,6M,1,0,0.0
+user_475,test,India,Android,Free Trial,0,0,0.0
+user_476,control,India,Android,3M,0,0,0.0
+user_477,test,US,Android,Free Trial,1,1,0.0
+user_478,control,Brazil,Android,3M,1,1,97.54
+user_479,test,Germany,iOS,3M,0,0,0.0
+user_480,control,India,iOS,6M,1,0,0.0
+user_481,control,India,Android,12M,0,0,0.0
+user_482,control,Brazil,Android,6M,0,0,0.0
+user_483,test,Brazil,iOS,6M,0,0,0.0
+user_484,control,UK,Android,3M,1,0,0.0
+user_485,test,UK,iOS,6M,1,0,0.0
+user_486,control,Germany,iOS,Free Trial,0,0,0.0
+user_487,test,Germany,iOS,Free Trial,1,0,0.0
+user_488,control,US,Android,3M,1,1,88.17
+user_489,test,UK,Android,3M,0,0,0.0
+user_490,test,India,iOS,Free Trial,0,0,0.0
+user_491,control,UK,iOS,Free Trial,1,1,0.0
+user_492,test,India,iOS,Free Trial,1,1,0.0
+user_493,test,Brazil,iOS,12M,1,1,15.98
+user_494,control,UK,iOS,3M,0,0,0.0
+user_495,test,Brazil,Android,3M,0,0,0.0
+user_496,test,Germany,iOS,Free Trial,1,1,0.0
+user_497,test,Germany,Android,6M,1,1,76.26
+user_498,control,US,iOS,Free Trial,0,0,0.0
+user_499,test,UK,Android,Free Trial,1,1,0.0
+user_500,control,Brazil,Android,3M,1,1,72.95
+user_501,test,India,Android,Free Trial,0,0,0.0
+user_502,test,Germany,Android,Free Trial,1,0,0.0
+user_503,test,Germany,Android,Free Trial,0,0,0.0
+user_504,control,India,Android,Free Trial,1,0,0.0
+user_505,test,Brazil,iOS,Free Trial,1,0,0.0
+user_506,test,Brazil,Android,3M,0,0,0.0
+user_507,control,UK,iOS,6M,1,0,0.0
+user_508,test,UK,Android,3M,0,0,0.0
+user_509,control,US,Android,3M,1,1,60.64
+user_510,control,Germany,iOS,Free Trial,1,1,0.0
+user_511,test,UK,Android,12M,1,1,37.68
+user_512,control,Brazil,iOS,3M,1,0,0.0
+user_513,test,India,iOS,Free Trial,1,0,0.0
+user_514,control,Brazil,iOS,6M,1,1,69.48
+user_515,control,Germany,iOS,Free Trial,1,1,0.0
+user_516,test,Brazil,Android,3M,1,1,24.48
+user_517,control,US,Android,3M,0,0,0.0
+user_518,control,Germany,iOS,12M,0,0,0.0
+user_519,control,India,Android,3M,0,0,0.0
+user_520,control,US,Android,6M,1,1,51.96
+user_521,control,Germany,iOS,12M,1,1,53.57
+user_522,test,India,Android,Free Trial,0,0,0.0
+user_523,control,US,iOS,Free Trial,1,1,0.0
+user_524,test,US,iOS,3M,1,0,0.0
+user_525,control,Germany,Android,3M,0,0,0.0
+user_526,test,UK,Android,3M,0,0,0.0
+user_527,test,US,Android,12M,1,1,96.07
+user_528,control,US,iOS,6M,1,1,89.45
+user_529,control,India,iOS,6M,0,0,0.0
+user_530,control,Brazil,Android,3M,1,0,0.0
+user_531,test,Germany,Android,6M,0,0,0.0
+user_532,control,Germany,Android,12M,0,0,0.0
+user_533,test,UK,Android,6M,0,0,0.0
+user_534,test,UK,iOS,Free Trial,1,1,0.0
+user_535,test,Germany,Android,6M,1,0,0.0
+user_536,control,UK,iOS,Free Trial,0,0,0.0
+user_537,control,India,iOS,Free Trial,0,0,0.0
+user_538,test,Germany,Android,Free Trial,0,0,0.0
+user_539,test,UK,Android,6M,1,0,0.0
+user_540,control,Germany,Android,6M,1,1,37.39
+user_541,test,Brazil,iOS,Free Trial,0,0,0.0
+user_542,control,US,Android,3M,0,0,0.0
+user_543,test,Germany,Android,3M,0,0,0.0
+user_544,control,US,iOS,3M,0,0,0.0
+user_545,test,UK,Android,Free Trial,1,0,0.0
+user_546,control,US,iOS,3M,0,0,0.0
+user_547,test,Germany,Android,6M,0,0,0.0
+user_548,control,Brazil,iOS,Free Trial,1,0,0.0
+user_549,control,UK,Android,Free Trial,0,0,0.0
+user_550,test,Germany,Android,3M,1,1,57.55
+user_551,test,UK,iOS,12M,1,1,30.19
+user_552,control,India,iOS,6M,0,0,0.0
+user_553,test,US,Android,6M,1,1,92.57
+user_554,control,India,iOS,3M,1,1,88.99
+user_555,test,Germany,iOS,3M,1,1,40.37
+user_556,control,Brazil,iOS,Free Trial,1,1,0.0
+user_557,control,UK,iOS,6M,1,1,69.31
+user_558,control,US,Android,12M,1,1,66.76
+user_559,control,UK,Android,6M,0,0,0.0
+user_560,control,Germany,iOS,12M,1,1,27.99
+user_561,control,UK,iOS,6M,1,1,79.81
+user_562,test,US,iOS,Free Trial,1,1,0.0
+user_563,test,Germany,iOS,12M,0,0,0.0
+user_564,test,UK,Android,Free Trial,1,1,0.0
+user_565,control,Brazil,Android,3M,0,0,0.0
+user_566,control,Germany,iOS,Free Trial,0,0,0.0
+user_567,control,Germany,iOS,Free Trial,0,0,0.0
+user_568,control,Brazil,iOS,3M,1,1,60.85
+user_569,test,India,Android,Free Trial,0,0,0.0
+user_570,test,US,iOS,3M,1,1,81.18
+user_571,control,India,Android,3M,0,0,0.0
+user_572,test,UK,iOS,Free Trial,0,0,0.0
+user_573,test,Brazil,Android,Free Trial,1,0,0.0
+user_574,control,India,iOS,3M,1,0,0.0
+user_575,test,Germany,Android,3M,1,0,0.0
+user_576,control,UK,iOS,6M,0,0,0.0
+user_577,test,UK,iOS,6M,1,0,0.0
+user_578,control,India,iOS,6M,1,0,0.0
+user_579,control,India,Android,6M,1,0,0.0
+user_580,control,Brazil,iOS,3M,0,0,0.0
+user_581,control,US,Android,6M,0,0,0.0
+user_582,test,India,Android,Free Trial,0,0,0.0
+user_583,control,India,iOS,3M,0,0,0.0
+user_584,control,Germany,iOS,6M,1,1,60.08
+user_585,control,UK,iOS,3M,1,0,0.0
+user_586,test,US,Android,6M,0,0,0.0
+user_587,control,Germany,iOS,6M,1,0,0.0
+user_588,test,Brazil,Android,12M,1,0,0.0
+user_589,control,Brazil,Android,12M,1,1,15.05
+user_590,test,India,iOS,3M,1,1,42.55
+user_591,test,India,iOS,3M,1,1,16.66
+user_592,control,Brazil,iOS,3M,0,0,0.0
+user_593,test,India,iOS,3M,1,1,93.97
+user_594,control,US,iOS,6M,1,0,0.0
+user_595,control,India,iOS,6M,1,0,0.0
+user_596,control,UK,Android,6M,0,0,0.0
+user_597,test,India,Android,3M,1,0,0.0
+user_598,test,Germany,Android,Free Trial,0,0,0.0
+user_599,control,US,iOS,3M,0,0,0.0
+user_600,control,Germany,Android,Free Trial,1,0,0.0
+user_601,test,Germany,Android,12M,0,0,0.0
+user_602,control,UK,Android,3M,0,0,0.0
+user_603,control,US,Android,Free Trial,0,0,0.0
+user_604,control,US,Android,Free Trial,0,0,0.0
+user_605,test,US,iOS,6M,1,0,0.0
+user_606,test,US,iOS,6M,1,0,0.0
+user_607,test,US,Android,3M,1,0,0.0
+user_608,control,UK,Android,Free Trial,1,1,0.0
+user_609,control,India,Android,3M,0,0,0.0
+user_610,control,Germany,iOS,3M,1,0,0.0
+user_611,test,US,iOS,6M,0,0,0.0
+user_612,control,India,Android,6M,0,0,0.0
+user_613,control,India,iOS,3M,0,0,0.0
+user_614,control,Germany,iOS,Free Trial,0,0,0.0
+user_615,control,UK,Android,12M,1,0,0.0
+user_616,test,Brazil,iOS,3M,1,1,89.69
+user_617,test,Brazil,iOS,6M,1,0,0.0
+user_618,control,India,Android,Free Trial,1,0,0.0
+user_619,test,Germany,iOS,3M,1,1,85.69
+user_620,test,Brazil,iOS,Free Trial,1,1,0.0
+user_621,control,India,Android,3M,0,0,0.0
+user_622,control,UK,iOS,12M,1,0,0.0
+user_623,test,Brazil,iOS,3M,1,0,0.0
+user_624,control,India,Android,Free Trial,0,0,0.0
+user_625,test,India,Android,Free Trial,1,0,0.0
+user_626,control,US,Android,3M,1,0,0.0
+user_627,test,UK,iOS,Free Trial,0,0,0.0
+user_628,control,US,Android,Free Trial,0,0,0.0
+user_629,test,Germany,iOS,6M,0,0,0.0
+user_630,test,US,Android,3M,1,1,41.14
+user_631,test,US,iOS,Free Trial,0,0,0.0
+user_632,control,Brazil,Android,12M,0,0,0.0
+user_633,test,India,Android,Free Trial,1,0,0.0
+user_634,test,UK,Android,12M,0,0,0.0
+user_635,control,US,Android,3M,0,0,0.0
+user_636,control,UK,iOS,12M,1,1,19.92
+user_637,test,US,Android,6M,1,1,89.63
+user_638,test,Germany,Android,6M,0,0,0.0
+user_639,control,US,iOS,12M,0,0,0.0
+user_640,control,Brazil,Android,Free Trial,1,1,0.0
+user_641,control,India,iOS,12M,0,0,0.0
+user_642,control,Germany,Android,3M,1,0,0.0
+user_643,control,US,Android,3M,1,0,0.0
+user_644,test,UK,Android,3M,1,1,95.49
+user_645,control,Germany,iOS,3M,0,0,0.0
+user_646,test,Germany,Android,Free Trial,0,0,0.0
+user_647,test,US,Android,3M,1,1,22.28
+user_648,test,Germany,Android,3M,1,1,56.31
+user_649,control,UK,iOS,6M,1,0,0.0
+user_650,test,Germany,iOS,6M,0,0,0.0
+user_651,test,UK,Android,3M,0,0,0.0
+user_652,control,US,iOS,3M,0,0,0.0
+user_653,test,India,Android,Free Trial,0,0,0.0
+user_654,test,Germany,Android,Free Trial,0,0,0.0
+user_655,control,India,Android,Free Trial,1,0,0.0
+user_656,test,UK,Android,3M,1,1,20.88
+user_657,test,Germany,Android,Free Trial,1,0,0.0
+user_658,test,Brazil,Android,12M,0,0,0.0
+user_659,control,India,Android,3M,0,0,0.0
+user_660,control,Germany,iOS,3M,1,1,79.65
+user_661,control,India,iOS,3M,0,0,0.0
+user_662,test,Germany,iOS,Free Trial,1,0,0.0
+user_663,test,US,iOS,3M,1,1,80.1
+user_664,control,India,iOS,6M,0,0,0.0
+user_665,test,Brazil,iOS,3M,0,0,0.0
+user_666,test,Brazil,iOS,3M,0,0,0.0
+user_667,control,UK,Android,12M,1,0,0.0
+user_668,control,Germany,Android,12M,1,1,25.91
+user_669,test,India,Android,6M,0,0,0.0
+user_670,test,UK,Android,3M,1,0,0.0
+user_671,test,India,iOS,6M,1,1,55.4
+user_672,control,Germany,iOS,Free Trial,0,0,0.0
+user_673,control,Brazil,Android,3M,1,0,0.0
+user_674,control,US,Android,Free Trial,0,0,0.0
+user_675,control,Brazil,iOS,3M,0,0,0.0
+user_676,test,UK,Android,3M,1,1,61.73
+user_677,control,US,Android,Free Trial,1,1,0.0
+user_678,control,UK,Android,12M,0,0,0.0
+user_679,control,Germany,Android,12M,0,0,0.0
+user_680,control,US,iOS,6M,0,0,0.0
+user_681,control,UK,Android,3M,0,0,0.0
+user_682,test,Germany,Android,12M,0,0,0.0
+user_683,test,Brazil,iOS,Free Trial,0,0,0.0
+user_684,control,Germany,iOS,6M,1,0,0.0
+user_685,test,India,Android,Free Trial,1,1,0.0
+user_686,control,Germany,iOS,6M,1,1,37.53
+user_687,control,Germany,Android,Free Trial,1,0,0.0
+user_688,test,India,Android,12M,1,0,0.0
+user_689,test,UK,iOS,12M,1,1,89.16
+user_690,control,UK,Android,Free Trial,0,0,0.0
+user_691,control,Germany,Android,3M,1,0,0.0
+user_692,control,India,Android,12M,1,1,50.97
+user_693,test,India,Android,3M,1,0,0.0
+user_694,control,Brazil,iOS,12M,1,0,0.0
+user_695,control,UK,iOS,3M,1,1,33.0
+user_696,control,US,Android,3M,1,1,60.84
+user_697,test,UK,iOS,Free Trial,1,0,0.0
+user_698,control,UK,Android,Free Trial,0,0,0.0
+user_699,control,Brazil,Android,6M,0,0,0.0
+user_700,test,US,Android,3M,0,0,0.0
+user_701,control,Brazil,Android,3M,0,0,0.0
+user_702,control,US,Android,3M,1,1,77.04
+user_703,test,Germany,iOS,3M,0,0,0.0
+user_704,control,US,Android,12M,0,0,0.0
+user_705,test,Brazil,iOS,12M,1,0,0.0
+user_706,test,UK,iOS,3M,0,0,0.0
+user_707,control,US,Android,6M,1,1,32.1
+user_708,control,US,Android,6M,0,0,0.0
+user_709,control,India,Android,3M,0,0,0.0
+user_710,control,UK,Android,12M,1,0,0.0
+user_711,test,Germany,Android,Free Trial,0,0,0.0
+user_712,control,Brazil,iOS,Free Trial,0,0,0.0
+user_713,test,Germany,Android,12M,0,0,0.0
+user_714,control,UK,Android,3M,1,0,0.0
+user_715,control,US,iOS,6M,0,0,0.0
+user_716,control,US,iOS,12M,1,1,41.5
+user_717,test,UK,Android,Free Trial,1,0,0.0
+user_718,control,US,iOS,12M,1,0,0.0
+user_719,control,US,Android,3M,0,0,0.0
+user_720,control,US,iOS,3M,0,0,0.0
+user_721,control,Brazil,iOS,6M,0,0,0.0
+user_722,test,Brazil,Android,12M,0,0,0.0
+user_723,control,India,iOS,Free Trial,1,1,0.0
+user_724,test,Germany,iOS,3M,1,1,99.59
+user_725,test,UK,iOS,6M,1,0,0.0
+user_726,test,UK,iOS,6M,1,0,0.0
+user_727,test,UK,iOS,6M,1,1,70.24
+user_728,test,India,iOS,Free Trial,1,1,0.0
+user_729,test,Brazil,Android,Free Trial,1,1,0.0
+user_730,control,India,Android,3M,1,1,52.24
+user_731,test,UK,iOS,6M,1,1,58.99
+user_732,test,Germany,Android,Free Trial,1,0,0.0
+user_733,test,US,Android,Free Trial,0,0,0.0
+user_734,control,Brazil,Android,12M,0,0,0.0
+user_735,control,Brazil,iOS,Free Trial,0,0,0.0
+user_736,test,India,Android,12M,1,0,0.0
+user_737,control,Brazil,iOS,6M,1,0,0.0
+user_738,test,UK,Android,6M,0,0,0.0
+user_739,test,UK,iOS,Free Trial,1,0,0.0
+user_740,control,India,iOS,Free Trial,1,0,0.0
+user_741,test,UK,Android,6M,1,1,25.29
+user_742,control,Germany,Android,6M,1,1,34.1
+user_743,control,India,iOS,6M,1,0,0.0
+user_744,test,Germany,Android,Free Trial,1,1,0.0
+user_745,test,US,Android,6M,0,0,0.0
+user_746,control,Germany,Android,6M,1,0,0.0
+user_747,test,US,iOS,6M,1,0,0.0
+user_748,test,US,iOS,6M,0,0,0.0
+user_749,test,Germany,Android,6M,1,0,0.0
+user_750,control,India,Android,6M,1,0,0.0
+user_751,control,UK,Android,Free Trial,0,0,0.0
+user_752,test,UK,iOS,3M,1,1,43.74
+user_753,control,US,iOS,Free Trial,1,0,0.0
+user_754,control,US,Android,3M,1,1,65.01
+user_755,control,India,Android,3M,1,1,34.56
+user_756,control,Brazil,Android,Free Trial,1,1,0.0
+user_757,control,Germany,Android,3M,0,0,0.0
+user_758,test,US,Android,Free Trial,1,0,0.0
+user_759,test,UK,Android,6M,1,0,0.0
+user_760,test,India,iOS,12M,1,1,33.72
+user_761,control,Germany,Android,Free Trial,1,0,0.0
+user_762,control,India,iOS,12M,0,0,0.0
+user_763,test,Germany,Android,3M,1,1,21.03
+user_764,control,Germany,Android,Free Trial,1,1,0.0
+user_765,test,US,iOS,Free Trial,1,1,0.0
+user_766,test,India,iOS,3M,1,1,68.64
+user_767,test,India,iOS,6M,1,1,34.46
+user_768,control,UK,iOS,6M,0,0,0.0
+user_769,control,UK,Android,Free Trial,1,1,0.0
+user_770,test,US,iOS,Free Trial,1,0,0.0
+user_771,test,US,Android,3M,1,0,0.0
+user_772,test,Brazil,iOS,Free Trial,0,0,0.0
+user_773,test,UK,Android,Free Trial,1,0,0.0
+user_774,control,Germany,Android,Free Trial,0,0,0.0
+user_775,control,India,Android,6M,0,0,0.0
+user_776,test,US,Android,12M,0,0,0.0
+user_777,test,India,Android,3M,1,1,91.96
+user_778,control,India,Android,12M,1,1,88.07
+user_779,control,Brazil,iOS,3M,0,0,0.0
+user_780,test,UK,Android,3M,0,0,0.0
+user_781,test,US,iOS,Free Trial,0,0,0.0
+user_782,test,India,iOS,6M,1,0,0.0
+user_783,control,US,Android,12M,1,0,0.0
+user_784,control,Germany,iOS,6M,1,0,0.0
+user_785,control,Brazil,Android,3M,0,0,0.0
+user_786,test,Germany,iOS,6M,1,1,21.02
+user_787,test,US,Android,Free Trial,1,1,0.0
+user_788,control,US,iOS,12M,0,0,0.0
+user_789,control,UK,Android,3M,1,1,35.23
+user_790,test,India,Android,3M,0,0,0.0
+user_791,control,India,Android,3M,1,1,71.86
+user_792,control,Germany,Android,6M,1,1,33.21
+user_793,test,Brazil,iOS,Free Trial,1,0,0.0
+user_794,control,India,Android,6M,0,0,0.0
+user_795,test,UK,iOS,Free Trial,1,1,0.0
+user_796,test,Germany,iOS,6M,1,1,26.25
+user_797,test,Germany,iOS,6M,0,0,0.0
+user_798,test,UK,Android,6M,1,0,0.0
+user_799,test,Brazil,iOS,3M,1,1,94.52
+user_800,test,UK,iOS,3M,1,0,0.0
+user_801,test,Brazil,iOS,Free Trial,1,0,0.0
+user_802,control,UK,Android,6M,0,0,0.0
+user_803,test,UK,Android,Free Trial,1,1,0.0
+user_804,test,US,iOS,3M,1,0,0.0
+user_805,control,Germany,Android,Free Trial,1,0,0.0
+user_806,control,UK,Android,Free Trial,0,0,0.0
+user_807,control,UK,iOS,6M,1,0,0.0
+user_808,test,India,iOS,Free Trial,1,1,0.0
+user_809,control,Germany,Android,6M,1,1,63.54
+user_810,test,India,iOS,3M,1,0,0.0
+user_811,test,Germany,Android,Free Trial,1,1,0.0
+user_812,test,India,Android,3M,1,1,55.18
+user_813,test,UK,Android,Free Trial,0,0,0.0
+user_814,control,UK,Android,Free Trial,1,0,0.0
+user_815,control,US,Android,6M,0,0,0.0
+user_816,test,India,Android,Free Trial,0,0,0.0
+user_817,test,Brazil,iOS,6M,1,0,0.0
+user_818,test,US,iOS,Free Trial,1,0,0.0
+user_819,control,India,Android,Free Trial,1,0,0.0
+user_820,test,India,Android,6M,0,0,0.0
+user_821,test,US,Android,3M,1,0,0.0
+user_822,control,UK,iOS,Free Trial,1,0,0.0
+user_823,control,India,Android,3M,1,1,81.69
+user_824,test,UK,iOS,Free Trial,0,0,0.0
+user_825,control,US,Android,6M,0,0,0.0
+user_826,control,UK,Android,3M,1,1,83.64
+user_827,test,Germany,iOS,6M,0,0,0.0
+user_828,control,Brazil,iOS,12M,1,1,31.18
+user_829,test,India,Android,3M,1,0,0.0
+user_830,control,Brazil,Android,12M,0,0,0.0
+user_831,test,UK,Android,3M,1,1,23.24
+user_832,test,India,iOS,12M,1,1,51.64
+user_833,test,UK,iOS,Free Trial,1,0,0.0
+user_834,control,Germany,iOS,6M,0,0,0.0
+user_835,test,US,iOS,3M,0,0,0.0
+user_836,control,India,iOS,3M,0,0,0.0
+user_837,test,Germany,iOS,6M,0,0,0.0
+user_838,test,Germany,Android,6M,1,0,0.0
+user_839,control,India,Android,Free Trial,1,1,0.0
+user_840,test,UK,iOS,Free Trial,1,1,0.0
+user_841,test,Germany,Android,6M,1,0,0.0
+user_842,control,Brazil,Android,6M,1,1,51.0
+user_843,test,Germany,iOS,12M,0,0,0.0
+user_844,test,UK,Android,6M,1,1,54.7
+user_845,test,UK,iOS,12M,1,1,76.97
+user_846,test,Brazil,iOS,6M,1,1,72.24
+user_847,control,Germany,Android,Free Trial,1,1,0.0
+user_848,control,UK,iOS,Free Trial,0,0,0.0
+user_849,test,India,iOS,6M,1,1,98.65
+user_850,control,US,iOS,6M,1,0,0.0
+user_851,test,US,iOS,Free Trial,0,0,0.0
+user_852,control,US,iOS,3M,1,1,23.37
+user_853,test,Germany,iOS,12M,1,1,49.22
+user_854,test,Brazil,iOS,3M,1,0,0.0
+user_855,test,UK,iOS,3M,1,1,43.84
+user_856,test,India,Android,3M,0,0,0.0
+user_857,test,India,Android,Free Trial,0,0,0.0
+user_858,test,Germany,Android,3M,1,1,88.24
+user_859,control,US,iOS,3M,0,0,0.0
+user_860,test,Germany,iOS,Free Trial,1,1,0.0
+user_861,control,Brazil,Android,6M,1,0,0.0
+user_862,test,Brazil,Android,3M,1,0,0.0
+user_863,control,UK,Android,6M,1,1,36.14
+user_864,control,UK,iOS,12M,1,1,31.17
+user_865,control,Brazil,Android,Free Trial,0,0,0.0
+user_866,test,Brazil,Android,6M,0,0,0.0
+user_867,test,Brazil,iOS,3M,1,1,53.13
+user_868,control,Germany,Android,12M,1,1,50.86
+user_869,test,Brazil,iOS,Free Trial,1,0,0.0
+user_870,control,India,iOS,6M,1,1,38.68
+user_871,test,US,iOS,6M,1,1,36.23
+user_872,control,Brazil,Android,Free Trial,1,1,0.0
+user_873,control,US,Android,Free Trial,0,0,0.0
+user_874,test,Germany,iOS,6M,1,1,93.48
+user_875,control,US,Android,6M,1,1,52.67
+user_876,test,Germany,Android,3M,1,1,88.21
+user_877,control,India,Android,6M,1,0,0.0
+user_878,control,Germany,Android,3M,1,1,61.78
+user_879,test,Germany,iOS,6M,0,0,0.0
+user_880,test,UK,Android,Free Trial,1,0,0.0
+user_881,test,Brazil,iOS,12M,0,0,0.0
+user_882,control,Brazil,iOS,Free Trial,1,1,0.0
+user_883,test,India,Android,3M,1,0,0.0
+user_884,control,India,iOS,Free Trial,1,1,0.0
+user_885,control,Brazil,Android,Free Trial,0,0,0.0
+user_886,test,UK,Android,3M,1,1,19.3
+user_887,test,Brazil,iOS,Free Trial,0,0,0.0
+user_888,control,UK,iOS,6M,1,0,0.0
+user_889,control,India,iOS,Free Trial,0,0,0.0
+user_890,test,US,iOS,3M,1,0,0.0
+user_891,test,India,Android,3M,0,0,0.0
+user_892,test,India,Android,Free Trial,1,0,0.0
+user_893,test,Germany,Android,Free Trial,0,0,0.0
+user_894,test,Germany,iOS,3M,1,0,0.0
+user_895,control,Germany,iOS,3M,1,1,99.94
+user_896,control,Germany,iOS,3M,1,1,86.06
+user_897,control,UK,Android,3M,0,0,0.0
+user_898,control,Brazil,iOS,3M,1,0,0.0
+user_899,test,US,Android,Free Trial,0,0,0.0
+user_900,test,India,iOS,3M,1,1,97.36
+user_901,test,UK,Android,12M,1,0,0.0
+user_902,control,US,Android,3M,1,1,93.74
+user_903,control,UK,iOS,6M,0,0,0.0
+user_904,test,UK,iOS,3M,0,0,0.0
+user_905,test,India,Android,6M,0,0,0.0
+user_906,control,Brazil,Android,6M,1,1,87.14
+user_907,control,Germany,iOS,3M,0,0,0.0
+user_908,test,Brazil,iOS,12M,0,0,0.0
+user_909,test,India,Android,Free Trial,1,1,0.0
+user_910,control,India,iOS,Free Trial,0,0,0.0
+user_911,test,India,Android,6M,0,0,0.0
+user_912,test,US,Android,6M,0,0,0.0
+user_913,test,Brazil,iOS,Free Trial,0,0,0.0
+user_914,control,Brazil,iOS,Free Trial,1,0,0.0
+user_915,control,UK,iOS,Free Trial,1,1,0.0
+user_916,control,UK,iOS,Free Trial,0,0,0.0
+user_917,control,UK,iOS,6M,1,0,0.0
+user_918,control,India,Android,3M,0,0,0.0
+user_919,control,Brazil,Android,3M,0,0,0.0
+user_920,control,India,iOS,3M,0,0,0.0
+user_921,test,US,iOS,Free Trial,0,0,0.0
+user_922,test,UK,iOS,Free Trial,1,0,0.0
+user_923,test,India,Android,6M,1,1,29.14
+user_924,test,India,iOS,12M,1,1,56.28
+user_925,test,US,iOS,6M,1,0,0.0
+user_926,test,Germany,Android,Free Trial,1,1,0.0
+user_927,test,Brazil,Android,12M,1,0,0.0
+user_928,control,Germany,iOS,6M,0,0,0.0
+user_929,control,UK,iOS,6M,0,0,0.0
+user_930,test,India,iOS,3M,1,0,0.0
+user_931,test,US,Android,3M,1,0,0.0
+user_932,control,US,iOS,3M,0,0,0.0
+user_933,test,Brazil,iOS,Free Trial,1,1,0.0
+user_934,test,Germany,iOS,Free Trial,1,1,0.0
+user_935,control,Brazil,Android,Free Trial,1,1,0.0
+user_936,test,India,Android,3M,1,0,0.0
+user_937,control,Brazil,iOS,6M,1,0,0.0
+user_938,test,US,iOS,3M,0,0,0.0
+user_939,control,US,Android,Free Trial,1,1,0.0
+user_940,control,UK,Android,12M,1,1,33.17
+user_941,control,UK,Android,12M,1,0,0.0
+user_942,test,India,Android,6M,1,0,0.0
+user_943,control,Germany,Android,12M,0,0,0.0
+user_944,test,Brazil,Android,3M,0,0,0.0
+user_945,test,India,Android,12M,0,0,0.0
+user_946,test,UK,Android,Free Trial,1,1,0.0
+user_947,test,Brazil,Android,3M,0,0,0.0
+user_948,control,UK,iOS,Free Trial,0,0,0.0
+user_949,control,Brazil,iOS,Free Trial,0,0,0.0
+user_950,test,Germany,iOS,Free Trial,1,1,0.0
+user_951,test,India,Android,6M,1,0,0.0
+user_952,control,Brazil,iOS,6M,1,0,0.0
+user_953,test,US,Android,3M,0,0,0.0
+user_954,control,US,Android,Free Trial,1,0,0.0
+user_955,test,Brazil,iOS,6M,1,0,0.0
+user_956,test,Brazil,Android,6M,0,0,0.0
+user_957,control,Brazil,iOS,3M,0,0,0.0
+user_958,test,US,iOS,6M,0,0,0.0
+user_959,control,US,iOS,Free Trial,1,1,0.0
+user_960,test,Brazil,Android,3M,0,0,0.0
+user_961,test,UK,iOS,12M,1,1,49.09
+user_962,test,UK,Android,Free Trial,1,1,0.0
+user_963,control,Germany,iOS,3M,1,0,0.0
+user_964,test,India,iOS,12M,1,1,19.98
+user_965,test,UK,iOS,6M,1,0,0.0
+user_966,test,US,Android,Free Trial,0,0,0.0
+user_967,test,UK,Android,Free Trial,1,0,0.0
+user_968,control,Germany,Android,Free Trial,0,0,0.0
+user_969,control,Germany,iOS,6M,1,1,47.21
+user_970,test,India,iOS,3M,1,0,0.0
+user_971,control,UK,Android,Free Trial,1,1,0.0
+user_972,test,US,Android,12M,1,1,98.75
+user_973,test,US,Android,3M,1,1,37.54
+user_974,test,Brazil,Android,Free Trial,1,0,0.0
+user_975,control,US,Android,3M,1,1,81.65
+user_976,control,India,Android,6M,1,0,0.0
+user_977,control,India,iOS,Free Trial,1,0,0.0
+user_978,control,US,Android,Free Trial,0,0,0.0
+user_979,control,US,iOS,6M,1,0,0.0
+user_980,control,Brazil,iOS,3M,0,0,0.0
+user_981,control,US,Android,3M,0,0,0.0
+user_982,control,Brazil,Android,3M,0,0,0.0
+user_983,control,Brazil,iOS,Free Trial,0,0,0.0
+user_984,test,US,Android,Free Trial,1,0,0.0
+user_985,control,Germany,Android,3M,0,0,0.0
+user_986,control,Germany,iOS,Free Trial,0,0,0.0
+user_987,control,Brazil,iOS,Free Trial,1,0,0.0
+user_988,control,US,iOS,6M,1,0,0.0
+user_989,control,Germany,Android,12M,1,1,53.68
+user_990,control,US,iOS,6M,0,0,0.0
+user_991,control,US,Android,12M,0,0,0.0
+user_992,control,US,iOS,Free Trial,1,0,0.0
+user_993,control,UK,iOS,12M,1,1,50.96
+user_994,control,US,iOS,Free Trial,1,1,0.0
+user_995,control,UK,Android,12M,1,0,0.0
+user_996,test,Brazil,Android,12M,0,0,0.0
+user_997,test,Germany,iOS,6M,1,0,0.0
+user_998,control,Germany,iOS,12M,1,1,96.37
+user_999,control,Germany,iOS,3M,1,0,0.0
+user_1000,test,Germany,Android,Free Trial,0,0,0.0
