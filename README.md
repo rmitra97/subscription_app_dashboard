@@ -5,7 +5,7 @@ This project simulates real-world product analytics and experimentation work der
 ## 🔗 Live Interactive Dashboard
 
 Explore the full interactive dashboard here:  
-[Open Dashboard in Looker Studio](https://lookerstudio.google.com/u/0/reporting/77434553-6f14-4155-afe5-e278b942f177/page/p_bagccqqltd)
+[Open Dashboard in Looker Studio](https://lookerstudio.google.com/u/0/reporting/77434553-6f14-4155-afe5-e278b942f177/page/8blOF)
 
 ---
 
